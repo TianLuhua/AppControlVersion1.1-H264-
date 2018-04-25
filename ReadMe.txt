@@ -1,0 +1,2 @@
+VOXXClient是Android的端的控制模块
+VOXXControl是翱瑞声设备的服务模块
